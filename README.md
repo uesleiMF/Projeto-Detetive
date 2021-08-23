@@ -6,10 +6,6 @@ console.log()
 	
 	console.log("O intuito deste programa e ajudar a solucionar crimes praticados no ambito da sociedade.Abaixo serao preenchidos alguns dados.")
 	
-console.log()
-console.log("VOCE:")
-
-
 
 	console.log()
 
